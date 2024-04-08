@@ -1,23 +1,17 @@
-package com.example.and103_thanghtph31577_lab5.view;
+package com.example.and103_sanndph32936_lab6.view;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Toast;
 
-import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
-import com.example.and103_thanghtph31577_lab5.R;
-import com.example.and103_thanghtph31577_lab5.adapter.FruitAdapter;
-import com.example.and103_thanghtph31577_lab5.databinding.ActivityHomeBinding;
-import com.example.and103_thanghtph31577_lab5.model.Fruit;
-import com.example.and103_thanghtph31577_lab5.model.Response;
-import com.example.and103_thanghtph31577_lab5.services.HttpRequest;
+import com.example.and103_sanndph32936_lab6.adapter.FruitAdapter;
+import com.example.and103_sanndph32936_lab6.databinding.ActivityHomeBinding;
+import com.example.and103_sanndph32936_lab6.model.Fruit;
+import com.example.and103_sanndph32936_lab6.model.Response;
+import com.example.and103_sanndph32936_lab6.services.HttpRequest;
 
 import java.util.ArrayList;
 

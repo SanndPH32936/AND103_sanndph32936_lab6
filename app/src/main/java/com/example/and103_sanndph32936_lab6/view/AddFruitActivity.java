@@ -1,4 +1,4 @@
-package com.example.and103_thanghtph31577_lab5.view;
+package com.example.and103_sanndph32936_lab6.view;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -10,23 +10,19 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Toast;
 
-import androidx.activity.EdgeToEdge;
 import androidx.activity.result.ActivityResult;
 import androidx.activity.result.ActivityResultCallback;
 import androidx.activity.result.ActivityResultLauncher;
 import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
 import com.bumptech.glide.Glide;
-import com.example.and103_thanghtph31577_lab5.R;
-import com.example.and103_thanghtph31577_lab5.databinding.ActivityAddFruitBinding;
-import com.example.and103_thanghtph31577_lab5.model.Distributor;
-import com.example.and103_thanghtph31577_lab5.model.Fruit;
-import com.example.and103_thanghtph31577_lab5.model.Response;
-import com.example.and103_thanghtph31577_lab5.services.HttpRequest;
+import com.example.and103_sanndph32936_lab6.R;
+import com.example.and103_sanndph32936_lab6.databinding.ActivityAddFruitBinding;
+import com.example.and103_sanndph32936_lab6.model.Distributor;
+import com.example.and103_sanndph32936_lab6.model.Fruit;
+import com.example.and103_sanndph32936_lab6.model.Response;
+import com.example.and103_sanndph32936_lab6.services.HttpRequest;
 
 import java.io.File;
 import java.io.FileNotFoundException;

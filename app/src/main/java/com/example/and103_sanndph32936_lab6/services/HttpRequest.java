@@ -1,6 +1,6 @@
-package com.example.and103_thanghtph31577_lab5.services;
+package com.example.and103_sanndph32936_lab6.services;
 
-import static com.example.and103_thanghtph31577_lab5.services.ApiServices.BASE_URL;
+import static com.example.and103_sanndph32936_lab6.services.ApiServices.BASE_URL;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

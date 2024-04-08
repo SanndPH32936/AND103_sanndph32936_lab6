@@ -1,4 +1,4 @@
-package com.example.and103_thanghtph31577_lab5;
+package com.example.and103_sanndph32936_lab6;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -8,18 +8,17 @@ import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.inputmethod.EditorInfo;
-import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.and103_thanghtph31577_lab5.adapter.DistributorAdapter;
-import com.example.and103_thanghtph31577_lab5.databinding.ActivityMainBinding;
-import com.example.and103_thanghtph31577_lab5.databinding.DialogAddBinding;
-import com.example.and103_thanghtph31577_lab5.model.Distributor;
-import com.example.and103_thanghtph31577_lab5.model.Response;
-import com.example.and103_thanghtph31577_lab5.services.HttpRequest;
+import com.example.and103_sanndph32936_lab6.adapter.DistributorAdapter;
+import com.example.and103_sanndph32936_lab6.databinding.ActivityMainBinding;
+import com.example.and103_sanndph32936_lab6.databinding.DialogAddBinding;
+import com.example.and103_sanndph32936_lab6.model.Distributor;
+import com.example.and103_sanndph32936_lab6.model.Response;
+import com.example.and103_sanndph32936_lab6.services.HttpRequest;
 
 
 import java.util.ArrayList;

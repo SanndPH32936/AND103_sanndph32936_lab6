@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.and103_thanghtph31577_lab5"
+    namespace = "com.example.and103_sanndph32936_lab6"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.and103_thanghtph31577_lab5"
+        applicationId = "com.example.and103_sanndph32936_lab6"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
